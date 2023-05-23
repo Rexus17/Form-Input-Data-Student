@@ -4,6 +4,6 @@
 
 this Project is Home Work at School When I am 2 class High School
 
-<p align="center">
-<img src="https://github.com/Rexus17/REXUS17-PLANNING/blob/master/cool-loading-animated-gif-10-unscreen.gif" width="100">
+<p align="right">
+<img src="https://github.com/Rexus17/REXUS17-PLANNING/blob/master/giphy-unscreen.gif" width="100">
 </p>
